@@ -1,4 +1,4 @@
-# 毛选拆局.skill
+# 毛选 · 思维操作系统 (Mao's Selected Works Thinking OS)
 
 > "最近大家都在蒸馏各种 skill。但，蒸馏的最终目的，是要**能够解决问题**！"
 
